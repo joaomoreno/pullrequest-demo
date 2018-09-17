@@ -1,1 +1,1 @@
-# nodejs-shopping-cart
+# nodejs-hello-cart
